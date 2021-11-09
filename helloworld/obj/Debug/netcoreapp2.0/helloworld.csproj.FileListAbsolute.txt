@@ -1,0 +1,10 @@
+C:\Users\daiki\Desktop\C#\helloworld\bin\Debug\netcoreapp2.0\helloworld.deps.json
+C:\Users\daiki\Desktop\C#\helloworld\bin\Debug\netcoreapp2.0\helloworld.runtimeconfig.json
+C:\Users\daiki\Desktop\C#\helloworld\bin\Debug\netcoreapp2.0\helloworld.runtimeconfig.dev.json
+C:\Users\daiki\Desktop\C#\helloworld\bin\Debug\netcoreapp2.0\helloworld.dll
+C:\Users\daiki\Desktop\C#\helloworld\bin\Debug\netcoreapp2.0\helloworld.pdb
+C:\Users\daiki\Desktop\C#\helloworld\obj\Debug\netcoreapp2.0\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\daiki\Desktop\C#\helloworld\obj\Debug\netcoreapp2.0\helloworld.AssemblyInfoInputs.cache
+C:\Users\daiki\Desktop\C#\helloworld\obj\Debug\netcoreapp2.0\helloworld.AssemblyInfo.cs
+C:\Users\daiki\Desktop\C#\helloworld\obj\Debug\netcoreapp2.0\helloworld.dll
+C:\Users\daiki\Desktop\C#\helloworld\obj\Debug\netcoreapp2.0\helloworld.pdb
