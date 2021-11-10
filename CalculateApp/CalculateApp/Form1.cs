@@ -29,6 +29,7 @@ namespace CalculateApp
 
         private void button1_Click(object sender, EventArgs e)
         {
+            // 変数と定数の宣言
             int price, quantity, subtotal, tax, total;
             const double TAXR_RATE = 0.08;
 
@@ -40,9 +41,15 @@ namespace CalculateApp
 
             total = subtotal + tax;
 
+            // Convert.ToStringを使用した場合
             label6.Text = Convert.ToString(subtotal);
             label7.Text = Convert.ToString(tax);
             label8.Text = Convert.ToString(total);
+
+            // Sring.Formatを使用した場合
+            label6.Text = String.Format("{0:0,000}円", subtotal);
+            label7.Text = String.Format("{0:0,000}円", tax);
+            label8.Text = String.Format("{0:0,000}円", total);
         }
     }
 }
