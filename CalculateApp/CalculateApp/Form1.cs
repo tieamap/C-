@@ -47,9 +47,9 @@ namespace CalculateApp
             label8.Text = Convert.ToString(total);
 
             // Sring.Formatを使用した場合
-            label6.Text = String.Format("{0:0,000}円", subtotal);
-            label7.Text = String.Format("{0:0,000}円", tax);
-            label8.Text = String.Format("{0:0,000}円", total);
+            label6.Text = String.Format("{0:#,##0}円", subtotal);
+            label7.Text = String.Format("{0:#,##0}円", tax);
+            label8.Text = String.Format("{0:#,##0}円", total);
         }
     }
 }
