@@ -8,14 +8,12 @@ namespace _20211114_Delegate
 {
     class Program
     {
-        delegate void Del1();
-
-        static void Disp() // 文字列の表示を行うメソッド
+        private static void Disp() // 文字列の表示を行うメソッド
         {
             Console.WriteLine("Hello, world!");
         }
 
-        static void a(Del1 call)
+        private static void a(Action call)
         {
             call();
         }
